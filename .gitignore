@@ -1,0 +1,29 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+.settings/
+.project
+.classpath
+
+# IntelliJ project files
+.idea
+*.iml
+out
+html
+
+# gradle
+gradle
+.gradle
+build
+gradlew
+gradlew.bat
+
+# MacOS
+.DS_Store
